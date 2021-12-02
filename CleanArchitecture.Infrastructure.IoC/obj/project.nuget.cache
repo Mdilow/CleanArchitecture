@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "dwlNFiaf5fIl7jW5K8cy1T4J0FbwE6fnYTsBJwin2E8ZyvOLHN4O1dIO2KzeUnFkMCV2GRdRhHx33rdwQV7cZg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user-pc\\source\\repos\\CleanArchitecture\\CleanArchitecture.Infrastructure.IoC\\CleanArchitecture.Infrastructure.IoC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user-pc\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.21\\microsoft.extensions.dependencyinjection.3.1.21.nupkg.sha512",
+    "C:\\Users\\user-pc\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.21\\microsoft.extensions.dependencyinjection.abstractions.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}
