@@ -6,3 +6,11 @@ C:\Users\user-pc\source\repos\CleanArchitecture\CleanArchitecture.Infrastructure
 C:\Users\user-pc\source\repos\CleanArchitecture\CleanArchitecture.Infrastructure.IoC\obj\Debug\netcoreapp3.1\CleanArchitecture.Infrastructure.IoC.csproj.CoreCompileInputs.cache
 C:\Users\user-pc\source\repos\CleanArchitecture\CleanArchitecture.Infrastructure.IoC\obj\Debug\netcoreapp3.1\CleanArchitecture.Infrastructure.IoC.dll
 C:\Users\user-pc\source\repos\CleanArchitecture\CleanArchitecture.Infrastructure.IoC\obj\Debug\netcoreapp3.1\CleanArchitecture.Infrastructure.IoC.pdb
+C:\Users\user-pc\source\repos\CleanArchitecture\CleanArchitecture.Infrastructure.IoC\bin\Debug\netcoreapp3.1\CleanArchitecture.Application.dll
+C:\Users\user-pc\source\repos\CleanArchitecture\CleanArchitecture.Infrastructure.IoC\bin\Debug\netcoreapp3.1\CleanArchitecture.Domain.dll
+C:\Users\user-pc\source\repos\CleanArchitecture\CleanArchitecture.Infrastructure.IoC\bin\Debug\netcoreapp3.1\CleanArchitecture.Infrastructure.Data.dll
+C:\Users\user-pc\source\repos\CleanArchitecture\CleanArchitecture.Infrastructure.IoC\bin\Debug\netcoreapp3.1\CleanArchitecture.Application.pdb
+C:\Users\user-pc\source\repos\CleanArchitecture\CleanArchitecture.Infrastructure.IoC\bin\Debug\netcoreapp3.1\CleanArchitecture.Infrastructure.Data.pdb
+C:\Users\user-pc\source\repos\CleanArchitecture\CleanArchitecture.Infrastructure.IoC\bin\Debug\netcoreapp3.1\CleanArchitecture.Domain.pdb
+C:\Users\user-pc\source\repos\CleanArchitecture\CleanArchitecture.Infrastructure.IoC\obj\Debug\netcoreapp3.1\CleanArchitecture.Infrastructure.IoC.csprojAssemblyReference.cache
+C:\Users\user-pc\source\repos\CleanArchitecture\CleanArchitecture.Infrastructure.IoC\obj\Debug\netcoreapp3.1\CleanArchitecture.Infrastructure.IoC.csproj.CopyComplete
