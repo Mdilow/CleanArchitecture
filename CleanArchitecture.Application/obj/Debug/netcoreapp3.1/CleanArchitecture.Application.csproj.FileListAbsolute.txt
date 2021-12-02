@@ -6,3 +6,7 @@ C:\Users\user-pc\source\repos\CleanArchitecture\CleanArchitecture.Application\ob
 C:\Users\user-pc\source\repos\CleanArchitecture\CleanArchitecture.Application\obj\Debug\netcoreapp3.1\CleanArchitecture.Application.csproj.CoreCompileInputs.cache
 C:\Users\user-pc\source\repos\CleanArchitecture\CleanArchitecture.Application\obj\Debug\netcoreapp3.1\CleanArchitecture.Application.dll
 C:\Users\user-pc\source\repos\CleanArchitecture\CleanArchitecture.Application\obj\Debug\netcoreapp3.1\CleanArchitecture.Application.pdb
+C:\Users\user-pc\source\repos\CleanArchitecture\CleanArchitecture.Application\bin\Debug\netcoreapp3.1\CleanArchitecture.Domain.dll
+C:\Users\user-pc\source\repos\CleanArchitecture\CleanArchitecture.Application\bin\Debug\netcoreapp3.1\CleanArchitecture.Domain.pdb
+C:\Users\user-pc\source\repos\CleanArchitecture\CleanArchitecture.Application\obj\Debug\netcoreapp3.1\CleanArchitecture.Application.csprojAssemblyReference.cache
+C:\Users\user-pc\source\repos\CleanArchitecture\CleanArchitecture.Application\obj\Debug\netcoreapp3.1\CleanArchitecture.Application.csproj.CopyComplete
